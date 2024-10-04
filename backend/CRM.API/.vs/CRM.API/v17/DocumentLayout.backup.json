@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\bjara\\Documents\\2024-3-POO-CRM\\backend\\CRM.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31354AC5-4E76-4E41-B601-127A07DF649E}|..\\CRM.application\\CRM.application.csproj|c:\\users\\bjara\\documents\\2024-3-poo-crm\\backend\\crm.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31354AC5-4E76-4E41-B601-127A07DF649E}|..\\CRM.application\\CRM.application.csproj|c:\\users\\bjara\\documents\\2024-3-poo-crm\\backend\\crm.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\bjara\\Documents\\2024-3-POO-CRM\\backend\\CRM.application\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\CRM.application\\Class1.cs",
-              "ToolTip": "C:\\Users\\bjara\\Documents\\2024-3-POO-CRM\\backend\\CRM.application\\Class1.cs",
-              "RelativeToolTip": "..\\CRM.application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\bjara\\Documents\\2024-3-POO-CRM\\backend\\CRM.application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\CRM.application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\bjara\\Documents\\2024-3-POO-CRM\\backend\\CRM.application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\CRM.application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:40:40.175Z",
+              "WhenOpened": "2024-10-03T16:57:19.053Z",
               "EditorCaption": ""
             }
           ]
